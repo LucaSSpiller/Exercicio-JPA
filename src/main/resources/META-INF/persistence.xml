@@ -10,9 +10,9 @@
 
             <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl"/>
 
-            <property name="javax.persistence.jdbc.user" value="rm93618"/>
+            <property name="javax.persistence.jdbc.user" value=""/>
 
-            <property name="javax.persistence.jdbc.password" value="081003"/>
+            <property name="javax.persistence.jdbc.password" value=""/>
 
             <property name="hibernate.dialect" value="org.hibernate.dialect.Oracle10gDialect"/>
 
